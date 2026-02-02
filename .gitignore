@@ -26,3 +26,4 @@ replay_pid*
 .mvn/
 .project
 .classpath
+.idea
